@@ -16,3 +16,4 @@
 
 [instagram]: https://www.instagram.com/emirhansern
 [linkedin]: https://www.linkedin.com/in/emirhan-serin-1bb2b51b2
+[twitter]: https://twitter.com/EmirhanSerinn

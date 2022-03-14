@@ -20,13 +20,13 @@
 [instagram]: https://www.instagram.com/emirhansern
 [linkedin]: https://www.linkedin.com/in/emirhan-serin-1bb2b51b2
 [twitter]: https://twitter.com/EmirhanSerinn
-
+<p float="left">
 ## 📊 GitHub Stats 
 ![Emirhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmirhanSerin1&hide=contribs,prs&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmirhanSerin1&layout=compact&show_icons=true&theme=dark)](https://github.com/cihangirtuncer/github-readme-stats)
 
-
+</p>
 
 <p float="left">
   <img src="cv.png" width="500" >

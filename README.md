@@ -1,9 +1,9 @@
 ## Hi there, I’m Emirhan. 
 
-- 🎓 I'm studying computer engineering and I want to be a mobile developer.  
-- 🏙 I'm from Turkey but I want to travel the world and work in different countries.
-- 💼 I'm currently interested in flutter and java.
-- 🏀 I like play basketbol ⛹️ and doing fitness 💪.
+- 🎓 I'm studying computer engineering and I am a Junior Flutter Developer.  
+- 🏙 I'm from Turkey but I am living and studying in Poland.
+- 💼 I'm currently interested in Flutter, Android and Java.
+- I like to improve myself and I am improving myself everytime.
 
 ## Connect with me:
 
@@ -18,7 +18,7 @@
 <br />
 
 [instagram]: https://www.instagram.com/emirhansern
-[linkedin]: https://www.linkedin.com/in/emirhan-serin-1bb2b51b2
+[linkedin]: https://www.linkedin.com/in/emirhan-serin
 [twitter]: https://twitter.com/EmirhanSerinn
 
 ## 📊 GitHub Stats 

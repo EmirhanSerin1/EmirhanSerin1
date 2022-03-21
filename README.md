@@ -22,7 +22,7 @@
 [twitter]: https://twitter.com/EmirhanSerinn
 
 ## 📊 GitHub Stats 
-![Emirhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmirhanSerin1&hide=contribs,prs&show_icons=true&theme=dark)
+![Emirhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmirhanSerin1&hide=contribs,prs&show_icons=true&theme=gradient)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmirhanSerin1&layout=compact&show_icons=true&theme=dark)](https://github.com/cihangirtuncer/github-readme-stats)
 

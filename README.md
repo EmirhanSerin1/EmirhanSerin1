@@ -28,5 +28,6 @@
 
 
 <p float="left">
-  <img src="cv.png" width="500" >
+  <img src="1.png" width="400" >
+  <img src="2.png" width="400" >
 </p>

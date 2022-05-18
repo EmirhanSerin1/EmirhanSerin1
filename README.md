@@ -31,5 +31,5 @@
 
 <p float="left">
   <img src="1.png" width="405" >
-  <img src="cv2.png" width="405" >
+  <img src="2.png" width="405" >
 </p>

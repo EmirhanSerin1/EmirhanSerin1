@@ -29,6 +29,5 @@
 
 
 <p float="left">
-  <img src="1cv.png" width="405" >
-  <img src="2cv.png" width="405" >
+  <img src="Emirhan_Serin_CV.png" width="500" >
 </p>

@@ -1,9 +1,9 @@
 ## Hi there, I’m Emirhan. 
 
 - I'm calling myself as a Mobile Developer who works mostly with Flutter and Java. 
-- I've been making my own Mobile Applications with Flutter for 2 years.
+- I am working in mobile application market for 2.5 years. In addition, I've been making my own Mobile Applications with Flutter for 3 years. 
 - I like to learn new things so in my spare time. I'm taking extra courses about Ios Programming now. Also I have little Android experience.
-- I'm confident in my UI/UX design and Frontend skills. I am working with Rest Api, Mvvm, State Management(GetX, Provider, Bloc) and Firebase.
+- I'm confident in my UI/UX design and Frontend skills. I am working with Design Principles, Mvvm, State Management(GetX, Provider, Bloc, Inherited(Own management)) and Solid Principles.
 - I am currently working at Oyak Yatırım as a Mobile Developer
 
 ## Connect with me:

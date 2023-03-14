@@ -1,10 +1,14 @@
 ## Hi there, I’m Emirhan. 
 
-- I'm calling myself as a Mobile Developer who works mostly with Flutter and Java. 
-- I am working in mobile application market for 2.5 years. In addition, I've been making my own Mobile Applications with Flutter for 3 years. 
-- I like to learn new things so in my spare time. I'm taking extra courses about Ios Programming now. Also I have little Android experience.
-- I'm confident in my UI/UX design and Frontend skills. I am working with Design Principles, Mvvm, State Management(GetX, Provider, Bloc, Inherited(Own management)) and Solid Principles.
-- I am currently working at Oyak Yatırım as a Mobile Developer
+Hello, I am a Mobile Developer who specializes in Flutter.
+
+My expertise lies in user interface design, app performance and working at every stage of the application development process to bring projects to life. I am a great team player and enjoy working with my teammates, always focusing on the needs of end-users to ensure that I do my job well.
+
+Aside from Flutter, I also have experience in other native technologies such as Android and iOS, allowing me to create and publish projects on multiple platforms without any hassle.
+
+I stay up to date with the latest technologies and enjoy continuous learning. When working with clients, I make it a point to understand their needs and strive to learn new things to provide a seamless experience.
+
+As a Mobile Developer, I am here to develop high-quality, user-friendly, and effective applications using the latest technologies to meet the application needs of businesses and clients.
 
 ## Connect with me:
 
@@ -29,5 +33,6 @@
 
 
 <p float="left">
-  <img src="Emirhan_Serin_CV.png" width="500" >
+  <img src="EmirhanSerinCV_page-1.jpg" width="400" >
+  <img src="EmirhanSerinCV_page-2.jpg" >
 </p>

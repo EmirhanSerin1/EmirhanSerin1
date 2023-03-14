@@ -34,5 +34,5 @@ As a Mobile Developer, I am here to develop high-quality, user-friendly, and eff
 
 <p float="left">
   <img src="EmirhanSerinCV_page-1.jpg" width="400" >
-  <img src="EmirhanSerinCV_page-2.jpg" >
+  <img src="EmirhanSerinCV_page-2.jpg" width="400" >
 </p>

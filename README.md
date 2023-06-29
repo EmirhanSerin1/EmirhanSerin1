@@ -32,7 +32,3 @@ As a Mobile Developer, I am here to develop high-quality, user-friendly, and eff
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmirhanSerin1&layout=compact&show_icons=true&theme=dark)](https://github.com/cihangirtuncer/github-readme-stats)
 
 
-<p float="left">
-  <img src="1.jpg" width="400" >
-  <img src="2.jpg" width="400" >
-</p>
